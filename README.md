@@ -18,14 +18,14 @@ And take the URL of the webhook (save it somewhere for later)
 
 Now go on your linux machine launch `crontab -e` (if you don't have crontab install it)
 
-and paste the code from here 
+and paste the code from here (https://raw.githubusercontent.com/IIPoliII/BDO-Easy-Boss-Timer/master/crontab.sh) 
 (depending on where you will paste the discord send message script adapt the code as your wish, i recommand you to use notepad ++ to remplace)
 
 Now simply close and save
 
-Now copy the code of this script and open a text editor in your linux machine (here we will use nano with the default path) `nano /root/discord` 
+Now copy the code of this script https://raw.githubusercontent.com/IIPoliII/BDO-Easy-Boss-Timer/master/discord and open a text editor in your linux machine (here we will use nano with the default path) `nano /root/discord` 
 
-Now that you copied the code change `YOUR URL HERE` to your webhook url that we took at first.
+Now that you copied the code change `YOUR URL HERE` to your webhook url that we took at first please let the little qotes in the file.
 
 Save your work and run a `chmod +x discord` and done !
 
