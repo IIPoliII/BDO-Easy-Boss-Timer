@@ -34,5 +34,7 @@ Now you will recive a notification 15 minutes before the bosses (make attention 
 
 NOTES : The images of the bosses are hosted on my personal website so if it dosn't work anymore simply change the links as your wishes for the boss images i let you the website images in `/img`
 
+Time tables founded here : https://community.blackdesertonline.com/index.php?threads/world-boss-events-spawn-schedule-updated-on-03-04-2019.215712/
 
 BROUGHT BY POLI FROM THE GUILD BRAIN-BLAST(https://poli.fun)
+
