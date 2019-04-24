@@ -1,7 +1,7 @@
 BDO-Easy-Boss-Timer (on discord)
 
 ------
-A script that give you an info about the boss 15 minutes before it spawns on discord
+A script that give you an info about the boss 15 minutes before it spawns on discord and it will send you a message about upcoming bosses at midnight
 ------
 
 I will do a really short readme there is nothing hard if you have more questions contact me on discord Poli#9036
