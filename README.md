@@ -36,7 +36,7 @@ NOTES : The images of the bosses are hosted on my personal website so if it dosn
 
 Time tables founded here : https://community.blackdesertonline.com/index.php?threads/world-boss-events-spawn-schedule-updated-on-03-04-2019.215712/
 
-** French Translation of the script https://raw.githubusercontent.com/IIPoliII/BDO-Easy-Boss-Timer/master/lang/fr/crontab.sh **
+** French Translation of the script https://raw.githubusercontent.com/IIPoliII/BDO-Easy-Boss-Timer/master/lang/fr/crontab-fr.sh **
 
 BROUGHT BY POLI FROM THE GUILD BRAIN-BLAST(https://poli.fun)
 
