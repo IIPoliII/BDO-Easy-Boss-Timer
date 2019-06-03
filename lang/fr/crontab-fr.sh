@@ -2,13 +2,13 @@
 
 #Affiche tout les bosses 15 minutes avant qu'ils apparaissent
 
-0 0 * * MON /root/discord "Kutum, Karanda dans 15 minutes ( https://bdo.poli.fun/img/kutum.png ) ( https://bdo.poli.fun/img/karanda.png )"
-0 0 * * TUE /root/discord "Karanda dans 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
-0 0 * * WED /root/discord "Kutum, Kzarka dans 15 minutes ( https://bdo.poli.fun/img/kutum.png ) ( https://bdo.poli.fun/img/kzarka.png )"
-0 0 * * THU /root/discord "Nouver dans 15 minutes ( https://bdo.poli.fun/img/nouver.png )"
-0 0 * * FRI /root/discord "Kzarka, Karanda dans 15 minutes ( https://bdo.poli.fun/img/kzarka.png ) ( https://bdo.poli.fun/img/karanda.png )"
-0 0 * * SAT /root/discord "Karanda dans 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
-0 0 * * SUN /root/discord "Nouver,Kutum dans 15 minutes ( https://bdo.poli.fun/img/nouver.png ) ( https://bdo.poli.fun/img/kutum.png )"
+0 1 * * MON /root/discord "Kutum, Karanda dans 14 minutes ( https://bdo.poli.fun/img/kutum.png ) ( https://bdo.poli.fun/img/karanda.png )"
+0 1 * * TUE /root/discord "Karanda dans 14 minutes ( https://bdo.poli.fun/img/karanda.png )"
+0 1 * * WED /root/discord "Kutum, Kzarka dans 14 minutes ( https://bdo.poli.fun/img/kutum.png ) ( https://bdo.poli.fun/img/kzarka.png )"
+0 1 * * THU /root/discord "Nouver dans 14 minutes ( https://bdo.poli.fun/img/nouver.png )"
+0 1 * * FRI /root/discord "Kzarka, Karanda dans 14 minutes ( https://bdo.poli.fun/img/kzarka.png ) ( https://bdo.poli.fun/img/karanda.png )"
+0 1 * * SAT /root/discord "Karanda dans 14 minutes ( https://bdo.poli.fun/img/karanda.png )"
+0 1 * * SUN /root/discord "Nouver,Kutum dans 14 minutes ( https://bdo.poli.fun/img/nouver.png ) ( https://bdo.poli.fun/img/kutum.png )"
 
 45 1 * * MON /root/discord "Karanda dans 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
 45 1 * * TUE /root/discord "Kutum dans 15 minutes ( https://bdo.poli.fun/img/kutum.png )"
@@ -80,6 +80,3 @@
 0 0 * * SAT /root/discord "Boss a venir aujourd'hui : Karanda (0:15), Offin (2:00), Nouver (5:00), Kutum (9:00), Nouver (12:00), Quint/Muraka (16:00), Kzarka (19:00), Karanda (19:00)"
 
 0 0 * * SUN /root/discord "Boss a venir aujourd'hui : Nouver (0:15), Kutum (0:15), Kzarka (2:00), Kutum (5:00), Nouver (9:00), Kzarka (12:00), Vell (16:00), Garmoth (19:00), Kzarka (22:15), Nouver (22:15)"
-
-
-
