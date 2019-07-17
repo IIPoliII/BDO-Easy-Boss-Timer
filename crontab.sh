@@ -2,13 +2,13 @@
 
 #Show all boses 15 minutes before they appear
 
-0 1 * * MON /root/discord "Kutum, Karanda in 14 minutes ( https://bdo.poli.fun/img/kutum.png ) ( https://bdo.poli.fun/img/karanda.png )"
-0 1 * * TUE /root/discord "Karanda in 14 minutes ( https://bdo.poli.fun/img/karanda.png )"
-0 1 * * WED /root/discord "Kutum, Kzarka in 14 minutes ( https://bdo.poli.fun/img/kutum.png ) ( https://bdo.poli.fun/img/kzarka.png )"
-0 1 * * THU /root/discord "Nouver in 14 minutes ( https://bdo.poli.fun/img/nouver.png )"
-0 1 * * FRI /root/discord "Kzarka, Karanda in 14 minutes ( https://bdo.poli.fun/img/kzarka.png ) ( https://bdo.poli.fun/img/karanda.png )"
-0 1 * * SAT /root/discord "Karanda in 14 minutes ( https://bdo.poli.fun/img/karanda.png )"
-0 1 * * SUN /root/discord "Nouver,Kutum in 14 minutes ( https://bdo.poli.fun/img/nouver.png ) ( https://bdo.poli.fun/img/kutum.png )"
+1 0 * * MON /root/discord "Kutum, Karanda in 14 minutes ( https://bdo.poli.fun/img/kutum.png ) ( https://bdo.poli.fun/img/karanda.png )"
+1 0 * * TUE /root/discord "Karanda in 14 minutes ( https://bdo.poli.fun/img/karanda.png )"
+1 0 * * WED /root/discord "Kutum, Kzarka in 14 minutes ( https://bdo.poli.fun/img/kutum.png ) ( https://bdo.poli.fun/img/kzarka.png )"
+1 0 * * THU /root/discord "Nouver in 14 minutes ( https://bdo.poli.fun/img/nouver.png )"
+1 0 * * FRI /root/discord "Kzarka, Karanda in 14 minutes ( https://bdo.poli.fun/img/kzarka.png ) ( https://bdo.poli.fun/img/karanda.png )"
+1 0 * * SAT /root/discord "Karanda in 14 minutes ( https://bdo.poli.fun/img/karanda.png )"
+1 0 * * SUN /root/discord "Nouver,Kutum in 14 minutes ( https://bdo.poli.fun/img/nouver.png ) ( https://bdo.poli.fun/img/kutum.png )"
 
 45 1 * * MON /root/discord "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
 45 1 * * TUE /root/discord "Kutum in 15 minutes ( https://bdo.poli.fun/img/kutum.png )"
