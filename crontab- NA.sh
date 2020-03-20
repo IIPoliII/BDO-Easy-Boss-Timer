@@ -2,9 +2,9 @@
 
 #15 minutes before midnight PDT
 
-45 8 * * MON /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
+45 8 * * MON /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
 45 8 * * TUE /root/runnedscripts/bdobot/Nymph "Kutum in 15 minutes ( https://i.imgur.com/gpqUyMo.png )"
-45 8 * * WED /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
+45 8 * * WED /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
 45 8 * * THU /root/runnedscripts/bdobot/Nymph "Kutum in 15 minutes ( https://i.imgur.com/gpqUyMo.png )"
 45 8 * * FRI /root/runnedscripts/bdobot/Nymph "Nouver in 15 minutes ( https://i.imgur.com/tkjXcJi.png )"
 45 8 * * SAT /root/runnedscripts/bdobot/Nymph "Offin in 15 minutes ( https://i.imgur.com/YQMBgEl.png )"
@@ -15,7 +15,7 @@
 45 11 * * MON /root/runnedscripts/bdobot/Nymph "Kzarka in 15 minutes ( https://i.imgur.com/UNZe5Lb.png )"
 45 11 * * TUE /root/runnedscripts/bdobot/Nymph "Kzarka in 15 minutes ( https://i.imgur.com/UNZe5Lb.png )"
 45 11 * * THU /root/runnedscripts/bdobot/Nymph "Kzarka in 15 minutes ( https://i.imgur.com/UNZe5Lb.png )"
-45 11 * * FRI /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
+45 11 * * FRI /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
 45 11 * * SAT /root/runnedscripts/bdobot/Nymph "Nouver in 15 minutes ( https://i.imgur.com/tkjXcJi.png )"
 45 11 * * SUN /root/runnedscripts/bdobot/Nymph "Kutum in 15 minutes ( https://i.imgur.com/gpqUyMo.png )"
 
@@ -23,7 +23,7 @@
 
 45 15 * * MON /root/runnedscripts/bdobot/Nymph "Kzarka in 15 minutes ( https://i.imgur.com/UNZe5Lb.png )"
 45 15 * * TUE /root/runnedscripts/bdobot/Nymph "Nouver in 15 minutes ( https://i.imgur.com/tkjXcJi.png )"
-45 15 * * WED /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
+45 15 * * WED /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
 45 15 * * THU /root/runnedscripts/bdobot/Nymph "Kutum in 15 minutes ( https://i.imgur.com/gpqUyMo.png )"
 45 15 * * FRI /root/runnedscripts/bdobot/Nymph "Kutum in 15 minutes ( https://i.imgur.com/gpqUyMo.png )"
 45 15 * * SAT /root/runnedscripts/bdobot/Nymph "Kutum in 15 minutes ( https://i.imgur.com/gpqUyMo.png )"
@@ -35,7 +35,7 @@
 45 18 * * TUE /root/runnedscripts/bdobot/Nymph "Kutum in 15 minutes ( https://i.imgur.com/gpqUyMo.png )"
 45 18 * * WED /root/runnedscripts/bdobot/Nymph "Nouver in 15 minutes ( https://i.imgur.com/tkjXcJi.png )"
 45 18 * * THU /root/runnedscripts/bdobot/Nymph "Nouver in 15 minutes ( https://i.imgur.com/tkjXcJi.png )"
-45 18 * * FRI /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
+45 18 * * FRI /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
 45 18 * * SAT /root/runnedscripts/bdobot/Nymph "Nouver in 15 minutes ( https://i.imgur.com/tkjXcJi.png )"
 45 18 * * SUN /root/runnedscripts/bdobot/Nymph "Kzarka in 15 minutes ( https://i.imgur.com/UNZe5Lb.png )"
 
@@ -53,18 +53,18 @@
 
 45 1 * * MON /root/runnedscripts/bdobot/Nymph "Garmoth in 15 minutes ( https://i.imgur.com/NpmxCpl.png )"
 45 1 * * TUE /root/runnedscripts/bdobot/Nymph "Nouver in 15 minutes ( https://i.imgur.com/tkjXcJi.png )"
-45 1 * * WED /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
+45 1 * * WED /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
 45 1 * * THU /root/runnedscripts/bdobot/Nymph "Offin in 15 minutes ( https://i.imgur.com/YQMBgEl.png )"
 45 1 * * FRI /root/runnedscripts/bdobot/Nymph "Kutum in 15 minutes ( https://i.imgur.com/gpqUyMo.png )"
 45 1 * * SAT /root/runnedscripts/bdobot/Nymph "Kzarka in 15 minutes ( https://i.imgur.com/UNZe5Lb.png )"
-45 1 * * SUN /root/runnedscripts/bdobot/Nymph "Kzarka, Karanda in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://bdo.poli.fun/img/karanda.png )"
+45 1 * * SUN /root/runnedscripts/bdobot/Nymph "Kzarka, Karanda in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://i.imgur.com/IKuiJte.png )"
 
 #20:00 PDT
 
 0 5 * * MON /root/runnedscripts/bdobot/Nymph "Kzarka, Nouver in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://i.imgur.com/tkjXcJi.png )"
 0 5 * * TUE /root/runnedscripts/bdobot/Nymph "Kzarka in 15 minutes ( https://i.imgur.com/UNZe5Lb.png )"
 0 5 * * WED /root/runnedscripts/bdobot/Nymph "Garmoth in 15 minutes ( https://i.imgur.com/NpmxCpl.png )"
-0 5 * * THU /root/runnedscripts/bdobot/Nymph "Kzarka, Karanda in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://bdo.poli.fun/img/karanda.png )"
+0 5 * * THU /root/runnedscripts/bdobot/Nymph "Kzarka, Karanda in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://i.imgur.com/IKuiJte.png )"
 0 5 * * FRI /root/runnedscripts/bdobot/Nymph "Garmoth in 15 minutes ( https://i.imgur.com/NpmxCpl.png )"
 0 5 * * SAT /root/runnedscripts/bdobot/Nymph "Kzarka, Kutum in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://i.imgur.com/gpqUyMo.png )"
 
@@ -74,13 +74,13 @@
 
 #22:00 PDT
 
-15 7 * * MON /root/runnedscripts/bdobot/Nymph "Kutum, Karanda in 15 minutes ( https://i.imgur.com/gpqUyMo.png ) ( https://bdo.poli.fun/img/karanda.png )"
-15 7 * * TUE /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
+15 7 * * MON /root/runnedscripts/bdobot/Nymph "Kutum, Karanda in 15 minutes ( https://i.imgur.com/gpqUyMo.png ) ( https://i.imgur.com/IKuiJte.png )"
+15 7 * * TUE /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
 15 7 * * WED /root/runnedscripts/bdobot/Nymph "Kzarka, Kutum in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://i.imgur.com/gpqUyMo.png )"
 15 7 * * THU /root/runnedscripts/bdobot/Nymph "Nouver in 15 minutes ( https://i.imgur.com/tkjXcJi.png )"
-15 7 * * FRI /root/runnedscripts/bdobot/Nymph "Kzarka, Karanda in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://bdo.poli.fun/img/karanda.png )"
-15 7 * * SAT /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
-15 7 * * SUN /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://bdo.poli.fun/img/karanda.png )"
+15 7 * * FRI /root/runnedscripts/bdobot/Nymph "Kzarka, Karanda in 15 minutes ( https://i.imgur.com/UNZe5Lb.png ) ( https://i.imgur.com/IKuiJte.png )"
+15 7 * * SAT /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
+15 7 * * SUN /root/runnedscripts/bdobot/Nymph "Karanda in 15 minutes ( https://i.imgur.com/IKuiJte.png )"
 
 
 #END First part
