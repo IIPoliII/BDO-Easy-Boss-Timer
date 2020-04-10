@@ -38,5 +38,5 @@ Time tables founded here : https://community.blackdesertonline.com/index.php?thr
 
 ** French Translation of the script https://raw.githubusercontent.com/IIPoliII/BDO-Easy-Boss-Timer/master/lang/fr/crontab-fr.sh **
 
-BROUGHT BY POLI FROM THE GUILD BRAIN-BLAST(https://poli.fun)
+BROUGHT BY POLI FROM THE GUILD BRAIN-BLAST(https://poli.gg)
 
